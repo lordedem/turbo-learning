@@ -5,5 +5,4 @@ These are a series of JavaScript exercises intended to be used alongside the cur
 There will eventually be a suggested order of completion, but at this time since we are still in the process of creating more exercises the order is subject to change and has not yet been specified.
 
 ---
-## List of JavaScript exercises
 
